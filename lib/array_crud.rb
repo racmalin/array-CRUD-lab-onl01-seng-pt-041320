@@ -10,7 +10,7 @@ def add_element_to_end_of_array(array, element)
    ["earth" , "wind" , "water" , "fire"].push("arrays!")
 end
 
-def add_element_to_start_of_array(array, element)
+def add_element_to_start_of_array(array, element).unshift("arrays!")
   
 end
 
