@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-   ["earth" , "wind" , "water" , "fire"]#sand
+   ["earth" , "wind" , "water" , "fire"] << "sand"
 end
 
 # def add_element_to_start_of_array(array, element)
